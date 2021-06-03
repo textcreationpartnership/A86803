@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The humble petition of the knights, esquires, ministers, gentlemen, and free-holders, in the countie palatine of Lancaster. Presented, May 2. 1642. With His Majesties letter to the major of Kingston upon Hull, 25. of April, 1642.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A86803</idno><idno type="EEBO-CITATION">99871721</idno>
+  <idno type="VID">156659</idno>
+  <idno type="EEBO-PROQUEST">2248517272</idno>
+  
+            <idno type="STC">Wing H3525</idno>
+            <idno type="STC">Thomason E146_18</idno>
+            <idno type="STC">ESTC R22364</idno>
+            <idno type="PROQUEST">99871721</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99871721e"/>
+            <note>(EEBO-TCP ; phase 2, no. A86803)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156659)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 26:E146[18])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The humble petition of the knights, esquires, ministers, gentlemen, and free-holders, in the countie palatine of Lancaster. Presented, May 2. 1642. With His Majesties letter to the major of Kingston upon Hull, 25. of April, 1642.</title>
+                  <author>Charles I, King of England, 1600-1649.</author>
+                  <author>England and Wales. Sovereign (1625-1649 : Charles I).</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Andrew Coe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A variant has title: The humble petition o t e [sic] knights, esquires, ministers, gentl emen [sic], a nd [sic] free-holders, in the countie palatine of Lancaster. Presented, May 2. 1642. With His Majesti es [sic] tter [sic] to the major of Kingston upon Hull, 25. of April, 64 [sic].</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Lancashire (England) --  History --  Sources --  Early works to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-05 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson </label>Sampled and proofread </change>
+         <change>
+            <date>2014-07 </date>
+            <label>Anne Simpson</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156659:1"/>
+            <p>The Humble PETITION O<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> T<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>E KNIGHTS, ESQUIRES, MI<g ref="char:EOLhyphen"/>NISTERS, GENTLEMEN, AND Free-holders, in the Countie Palatine of LANCASTER.</p>
+            <p>Presented, <hi>May</hi> 2. 1642.</p>
+            <p>With His MAIESTIES <gap reason="illegible" resp="#murp" extent="2 letters">
+                  <desc>••</desc>
+               </gap>TTER TO THE MAJOR of <hi>Kingston upon Hull,</hi> 25. of <hi>April,</hi>
+               <gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>64<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.</p>
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <head>C R</head>
+            </figure>
+            <p>LONDON. Printed for <hi>Andrew Coe.</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:156659:2"/>
+            <pb facs="tcp:156659:2"/>
+            <head>
+               <hi>His Majesties Letter to the Major of</hi> Kingston <hi>upon</hi> Hul, April <hi>25. 1642.</hi>
+            </head>
+            <opener>
+               <salute>To Our trusty and welbeloved, the Ma<gap reason="illegible" resp="#murp" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>or, Aldermen, and Burgesses of Our Town and Port of Kingston upon Hull.</salute>
+            </opener>
+            <opener>
+               <salute>TRusty and welbeloved, Wee gréet you well.</salute>
+            </opener>
+            <p>Wheras we have bin long sensible of the just complaints and great Burdens of Our Sub<g ref="char:EOLhyphen"/>jects in these Northern parts, by occasion of the Garrison in Our Town of <hi>Hull;</hi> And wheras we were upon Friday the <hi>22.</hi> of this Month petitioned by divers of the Gentry, and others, Inhabitants of this County, That the Munition at <hi>Hull</hi> might remain in the Magazine there, for the security of Our person, and of all these Northern parts, their Fear, being much grounded upon the Parliaments Relations of forreign Invasions: Vpon which, the more to expresse our care of Our peoples safety, We did Our Self go in person to that Our Town, that upon our own view, we might consult what proportion of it might bee fitly removed vpon any pressing occasion, having a respect to the pro<g ref="char:EOLhyphen"/>mised supply for <hi>Scotland,</hi> the necessary use of Arms for <hi>Ireland,</hi> as well as for the safeguard and satisfaction of these Northern parts: But much contrary to Our ex<g ref="char:EOLhyphen"/>pectation,
+<pb facs="tcp:156659:3"/> and the Duty and Allegeance of Our Sub<g ref="char:EOLhyphen"/>jects, We found the Gates of that Our Town shut, &amp; the Bridges drawn up against Vs; and though Wée came in a peaceable way, reposing the greatest confi<g ref="char:EOLhyphen"/>dence in the Love and Loyalty of Our People, by offe<g ref="char:EOLhyphen"/>ring (as we did) to put Our own Person, and Our two Sons, but with twenty Horse, into that Town, there being in it a Garrison of about eight hundred Souldiers; Yet We were not denied entrance, but in a warlike manner opposed by Sir <hi>Iohn Hotham,</hi> the armed men being placed in all the Ports, and about all the Wals of the town, alleadging (though falsly) sor his excuse, the Command of the Parliament, and being pressed by Vs to shew such an Order in writing, he could not do it; for We were ever very confident that there was never any publike Order of theirs, that could so much as imply a denial to Our admission; We knowing well enough, that he was entrusted by them for a Guard and Security of that place against for<g ref="char:EOLhyphen"/>raign Enemies; or those at home who are dis-affected in Religion, and not against His naturall Soveraign, which hostile Opposition and actuall Levying of War against Our Person being by the Statute of <hi>25. Edw. 3.</hi> enacted High Treason: Which Statute con<g ref="char:EOLhyphen"/>sidered, and that for the avoyding of all Iealousies, as We have said; We were content to have béen admit<g ref="char:EOLhyphen"/>ted with so very smal a number Our in Company, We were thereupon constrained to proclaim the said Sir <hi>Iohn Hotham,</hi> and all those that shall adhere to assist him Traytors▪ Of all which aforeesaid passages, We have acquainted Our Parliament demanding Iustice to be done upon him, that they might therby have op<g ref="char:EOLhyphen"/>portunity to vindicate the imputation laid on them by Sir <hi>John Hotham</hi> and We the easier way to chastize according to the Law<gap reason="illegible" resp="#murp" extent="1 letter">
+                  <desc>•</desc>
+               </gap> so high a Treason. And lest a mis-understanding of Our intentions, or of the Law may misguide any of Our loyall and wel-affected sub<g ref="char:EOLhyphen"/>jects,
+<pb facs="tcp:156659:3"/> the Inhabitants, Captains, Officers, or Souldi<g ref="char:EOLhyphen"/>ers in that Town, We have thought fit to commend to your consideration the afore named Statute, with that of the <hi>11.</hi> of <hi>Hen. 7. Cap. 1.</hi>
+            </p>
+            <p>Wherein it is declared, by the unanimous Assent of Parliament,
+<q>That the Subjects of this Realme are bound, by the duty of Allegiance, to serve the King, for the time being, for the defence of his person and the Land, against every Re<g ref="char:EOLhyphen"/>bellion, Might, or Power raised against him, and with his Majesty to enter or abide in Service in Battle, if cause so re<g ref="char:EOLhyphen"/>quire.</q> And it was therfore then enacted,
+<q>That from hence<g ref="char:EOLhyphen"/>forth no person whatsoever that shall attend upon the King, or be in place, by his command, within or without the Land, That for the same deed and true service of Allegeance, he, and they be no ways attaint or convict of high Treason, or of other offen<g ref="char:EOLhyphen"/>ces for that Cause, by any Processe of Law, wherby he, or any of them shall lose or forfeit Lives, Lands, Tenements, Goods, or a<g ref="char:EOLhyphen"/>nything; but be, for that Deed and Service utterly discharged of any vexation, trouble, or losse; And if any Act or Acts, or other Processe of Law therupon for the same happen to be made contrary to this Ordinance, that then that Act or Acts, or o<g ref="char:EOLhyphen"/>ther Processe of the Law whatsoever they shall be, stand and be utterly void.</q>
+            </p>
+            <p>All which, together with the Copies of our Message and Petition (which We send here inclosed) We require you to publish to the Inhabitants, and all such Comman<g ref="char:EOLhyphen"/>ders and Souldiers as will hear them: That knowing both the perill of the Law on the one side, and the securi<g ref="char:EOLhyphen"/>ty of such as shall adhere to Vs on the other, they bee not misled (through ignorance) to decline their Allegiance; and that the Souldiers may lay down their Arms, and admit Our entrance in a peaceable way. In so doing, you shall both discharge your duties, and those that shall have néed, be assured to find (upon such their submission) Our ready Mercy and Pardon. And wee do likewise require and charge all you, the Inhabitants (as well Souldiers as others) upon your Allegiance, That you permit not a<g ref="char:EOLhyphen"/>ny
+<pb facs="tcp:156659:4"/> part of our Magazine or Munition so be removed or transported out of that town, vnder any pretence of Or<g ref="char:EOLhyphen"/>der or power whatsoever, without our Royall Assent in writing under Our hand. Assuring you, that it will bee much more pleasing to Vs to have Occasion administred by the fidelity of the Inhabitants to enlarge those Gra<g ref="char:EOLhyphen"/>ces and Immunities granted to that town by Our pre<g ref="char:EOLhyphen"/>decessors, then to have any occasion to question your Charter.</p>
+            <closer>
+               <dateline>
+                  <hi>Given at Our Court at York</hi>
+                  <date>
+                     <hi>the <hi>25.</hi> of April, <hi>1642.</hi>
+                     </hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="petition">
+            <pb facs="tcp:156659:4"/>
+            <head>
+               <hi>To the Kings most Excellent Maiesty,</hi> The humble Petition of the Knights, Es<g ref="char:EOLhyphen"/>quires, Ministers, Gentlemen, Freeholders, <hi>in the County Palatine of</hi> Lancaster.</head>
+            <opener>Shewing unto Your sacred Majestie,</opener>
+            <p>
+               <seg rend="decorInit">O</seg>Ur heart-breaking sence, and sorrow, for the unhappy Rents and Distractions in your Majesties Domini<g ref="char:EOLhyphen"/>ons; especially in the Ses<g ref="char:EOLhyphen"/>sion of so grave, and Reli<g ref="char:EOLhyphen"/>gious an Assembly, and most Graciously conveened by your Majesty; endeavouring the glory of Almighty God, in the Refor<g ref="char:EOLhyphen"/>mation of Religion, and the Honour and Weale of your Majesties Realmes, in set<g ref="char:EOLhyphen"/>ling and securing your Royall Throne in plenty and peace.</p>
+            <p>But perceiving the long and remote distance of Your Majesty from the Hono<g ref="char:EOLhyphen"/>rable Assembly, to have distracted the hearts of your good Subjects, and anima<g ref="char:EOLhyphen"/>ted the Popish and malignant party a<g ref="char:EOLhyphen"/>mongst us, and fearing it may expose us
+<pb facs="tcp:156659:5"/> to the fury of a Forraigne Foe, retard the setling of the waighty Affaires of our land and the subduing of the Rebels in <hi>Ireland:</hi> And finding your Majesties late Resoluti<g ref="char:EOLhyphen"/>on for the Expedition to threaten danger to your Royall person, farre more worth then 10000 of us: We therfore your Ma<g ref="char:EOLhyphen"/>jesties most loyall Subjects, out of the zeale to Gods true Religion, your Maje<g ref="char:EOLhyphen"/>sties honour and safety▪ and the peace and welfare of your Dominions, out of the deepe sence and apprehension, of our in<g ref="char:EOLhyphen"/>trust in the same, do in all humility, pre<g ref="char:EOLhyphen"/>sent and prostrate our selves and suppli<g ref="char:EOLhyphen"/>cations at your Royall feete, beseeching your Majesty to return to your great Coun<g ref="char:EOLhyphen"/>cell, and there present a live body of the Kingdome, in whom the Nation hath so far confided, that they have intrusted them with their lives, liberties, and estates, and in which multitude of Counsellors, there is health and stedfastnesse, and whereby your Throne may be established in righ<g ref="char:EOLhyphen"/>teousnesse; And we with the rest of your faithfull Subjects, shall continually praise and pray for your prosperous and happy Raigne over us.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
